@@ -14,8 +14,13 @@
 
 <br>
 
-Mi nombre es Juan, tengo 21 años y soy de Argentina. Soy un apasionado del código y de la lógica, me gustan las matemáticas y los deportes.
-Soy estudiante avanzado de Ingenieria Civil y Full Stack Developer.
+I'm Juan Pablo Lopez, a passionate full-stack developer with 8 months of experience, both as a freelancer and in full-time roles. I began my tech journey at soy Henry, building a strong foundation complemented by self-directed learning, alongside my background in Civil Engineering.
+
+My most significant experience comes from my role at Gen Consultores, where I led diverse projects, including financial and lottery applications. Additionally, as a freelancer, I recently launched an AI-powered diet generator app.
+
+My tech stack includes Front End and Back End expertise with JavaScript, TypeScript, ReactJS, NextJS, Tailwind CSS, Redux, NodeJS, Express, Sequelize, MongoDB, and React Native for mobile app development.
+
+I'm passionate about solving problems and creating innovative solutions that enhance people's lives. My full-stack focus gives me a holistic project perspective, from conception to implementation. I'm committed to excellence and always eager to grow and learn.
 
 <br><br>
 
